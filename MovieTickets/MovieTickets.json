@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Inside Out 2",
+        "location": "AMC",
+        "theater": 14,
+        "price": "$10",
+        "date": "06.23.2024",
+        "description": "Disney and Pixars “Inside Out 2” returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone. Maya Hawke lends her voice to Anxiety, alongside Amy Poehler as the voice of Joy. The voice cast also includes Lewis Black, Phyllis Smith, Tony Hale and Liza Lapira. Directed by Kelsey Mann and produced by Mark Nielsen, “Inside Out 2” releases only in theaters June 14, 2024."
+
+    },
+    {
+        "title": "IF",
+        "location": "AMC",
+        "theater": 14,
+        "price": "$10",
+        "date": "06.24.2024",
+        "description": "a girl who discovers that she can see everyone's imaginary friends -- and what she does with that superpower -- as she embarks on a magical adventure to reconnect forgotten IFs with their kids."
+
+    },
+    {
+        "title": "The Fall Guy",
+        "location": "AMC",
+        "theater": 14,
+        "price": "$10",
+        "date": "06.25.2024",
+        "description": "a stuntman who gets involved in a conspiracy while working on his ex-girlfriend's directorial debut"
+    },
+    {
+        "title": "Tuesday",
+        "location": "AMC",
+        "theater": 14,
+        "price": "$10",
+        "date": "06.26.2024",
+        "description": "Zora lives with her terminally ill daughter Tuesday. One day, Death in the form of a size-altering macaw arrives and sends Zora and Tuesday on an emotional journey about life, love, and death."
+    },
+    {
+        "title": "Bad Boys",
+        "location": "AMC",
+        "theater": 14,
+        "price": "$10",
+        "date": "06.27.2024",
+        "description": "Miami detectives Mike Lowrey and Marcus Burnett, who are attempting to clear the name of their late Captain, Conrad Howard, after he is falsely accused of conspiracy"
+    },
+    {
+        "title": "Treasure",
+        "location": "AMC",
+        "theater": 14,
+        "price": "$10",
+        "date": "06.28.2024",
+        "description": "A music journalist accompanies her father, a charmingly stubborn Holocaust survivor, on a journey to his homeland. While she's eager to make sense of her family's past, her dad has an agenda of his own."
+    }
+            
+]
